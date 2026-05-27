@@ -934,7 +934,7 @@ Project: ". $project = "Godrej Crown Residence - Sachin " . " |\r\n
 
 
 
-Name: ". $name . " |\r\n
+Name: ". $name . " |\r\n 
 
 
 
