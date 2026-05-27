@@ -34,7 +34,7 @@ $(".slide-submit button")
         https: location.href =
 
 
-          "https://api.whatsapp.com/send?phone=919741135300&text=Hi%20Team.%20I%20am%20Interested%20In%20Knowing%20More%20About%20Godrej%20Crown%20Residence.%20Please%20Send%20Me%20More%20Details.";
+          "https://api.whatsapp.com/send?phone=917899200300&text=Hi%20Team.%20I%20am%20Interested%20In%20Knowing%20More%20About%20Godrej%20Crown%20Residence.%20Please%20Send%20Me%20More%20Details.";
 
 
 
